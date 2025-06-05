@@ -38,6 +38,7 @@ main{
 }
 
 .pic{
+    height:288px;
     border: transparent;
     border-radius: 10px;
     overflow: hidden;

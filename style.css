@@ -38,7 +38,7 @@ main{
 }
 
 .pic{
-    height:288px;
+    height: 288px;
     border: 1px solid rgb(165, 165, 165);
     border-radius: 10px;
     overflow: hidden;
